@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **barbearia alura** é uma landing page de barbearia que foi criado dentro do curso [HTML5 E CSS3: a primeira página da WEB, Alura](https:https://www.alura.com.br/) com o intuito de colocarmos em prática todo conteúdo estudado durante o curso
+O projeto **barbearia alura** é uma landing page de barbearia que foi criado dentro do curso [HTML5 E CSS3: a primeira página da WEB, Alura](https:https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
