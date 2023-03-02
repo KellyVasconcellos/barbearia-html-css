@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/barbearia-alura/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/barbearia/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **barbearia alura** é uma landing page de barbearia que foi criado dentro do curso [HTML5 E CSS3: a primeira página da WEB, Alura](https:https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **barbearia alura** é uma landing page de barbearia que foi criado dentro do curso [HTML5 E CSS3: a primeira página da WEB](https:https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
@@ -35,9 +35,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/barbearia-alura.git
+    $ git clone https://github.com/KellyVasconcellos/barbearia.git
     # Entrar no diretório
-    $ cd barbearia-alura
+    $ cd barbearia
 ```
 
 ---
