@@ -18,16 +18,16 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **barbearia alura** é uma landing page de barbearia que foi criado dentro do curso [HTML5 E CSS3: a primeira página da WEB](https:https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Barbearia** é uma landing page que foi criada dentro do curso [HTML5 E CSS3: a primeira página da WEB](https:https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
 
