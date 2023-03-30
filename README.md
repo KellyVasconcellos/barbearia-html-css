@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/barbearia/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/barbearia-html-css/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -35,9 +35,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/barbearia.git
+    $ git clone https://github.com/KellyVasconcellos/barbearia-html-css.git
     # Entrar no diretório
-    $ cd barbearia
+    $ cd barbearia-html-css
 ```
 
 ---
