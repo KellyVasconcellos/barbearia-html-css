@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Barbearia** é uma landing page que foi criada dentro do curso [HTML5 E CSS3: a primeira página da WEB](https:https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
+O projeto **Barbearia** é uma landing page que foi criada dentro do curso [HTML5 E CSS3: a primeira página da WEB](https://www.alura.com.br/) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
